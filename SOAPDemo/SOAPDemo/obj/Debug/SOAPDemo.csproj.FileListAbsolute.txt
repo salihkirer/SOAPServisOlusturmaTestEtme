@@ -1,0 +1,118 @@
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\SOAPDemo.dll.config
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\SOAPDemo.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\SOAPDemo.pdb
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\csc.exe
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\csc.exe.config
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\csc.rsp
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\csi.exe
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\csi.exe.config
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\csi.rsp
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.AppContext.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Console.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Net.Http.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\vbc.exe
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\vbc.exe.config
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\vbc.rsp
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\obj\Debug\SOAPDemo.csproj.AssemblyReference.cache
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\obj\Debug\SOAPDemo.csproj.CoreCompileInputs.cache
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\obj\Debug\SOAPDemo.csproj.CopyComplete
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\obj\Debug\SOAPDemo.dll
+C:\Users\TRtekSK\Desktop\Backend\SOAPDemo\SOAPDemo\obj\Debug\SOAPDemo.pdb
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\SOAPDemo.dll.config
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\SOAPDemo.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\SOAPDemo.pdb
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\csc.exe
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\csc.exe.config
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\csc.rsp
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\csi.exe
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\csi.exe.config
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\csi.rsp
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.AppContext.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Console.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Net.Http.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\vbc.exe
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\vbc.exe.config
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\vbc.rsp
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\obj\Debug\SOAPDemo.csproj.AssemblyReference.cache
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\obj\Debug\SOAPDemo.csproj.CoreCompileInputs.cache
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\obj\Debug\SOAPDemo.csproj.CopyComplete
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\obj\Debug\SOAPDemo.dll
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPDemo\SOAPDemo\obj\Debug\SOAPDemo.pdb

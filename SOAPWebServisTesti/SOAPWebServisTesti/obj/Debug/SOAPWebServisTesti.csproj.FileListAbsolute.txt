@@ -1,0 +1,33 @@
+C:\Users\TRtekSK\Desktop\Backend\SOAPWebServisTesti\SOAPWebServisTesti\bin\Debug\SOAPWebServisTesti.exe.config
+C:\Users\TRtekSK\Desktop\Backend\SOAPWebServisTesti\SOAPWebServisTesti\bin\Debug\SOAPWebServisTesti.exe
+C:\Users\TRtekSK\Desktop\Backend\SOAPWebServisTesti\SOAPWebServisTesti\bin\Debug\SOAPWebServisTesti.pdb
+C:\Users\TRtekSK\Desktop\Backend\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.csproj.AssemblyReference.cache
+C:\Users\TRtekSK\Desktop\Backend\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRtekSK\Desktop\Backend\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.Form1.resources
+C:\Users\TRtekSK\Desktop\Backend\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.Properties.Resources.resources
+C:\Users\TRtekSK\Desktop\Backend\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.csproj.GenerateResource.cache
+C:\Users\TRtekSK\Desktop\Backend\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.csproj.CoreCompileInputs.cache
+C:\Users\TRtekSK\Desktop\Backend\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.exe
+C:\Users\TRtekSK\Desktop\Backend\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.pdb
+C:\Users\salih\Belgeler\Backend Dosyalari\StajProjeleri\WebServisOlusturmaTest\SOAPWebServisTesti\SOAPWebServisTesti\bin\Debug\SOAPWebServisTesti.exe.config
+C:\Users\salih\Belgeler\Backend Dosyalari\StajProjeleri\WebServisOlusturmaTest\SOAPWebServisTesti\SOAPWebServisTesti\bin\Debug\SOAPWebServisTesti.exe
+C:\Users\salih\Belgeler\Backend Dosyalari\StajProjeleri\WebServisOlusturmaTest\SOAPWebServisTesti\SOAPWebServisTesti\bin\Debug\SOAPWebServisTesti.pdb
+C:\Users\salih\Belgeler\Backend Dosyalari\StajProjeleri\WebServisOlusturmaTest\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.csproj.AssemblyReference.cache
+C:\Users\salih\Belgeler\Backend Dosyalari\StajProjeleri\WebServisOlusturmaTest\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\Belgeler\Backend Dosyalari\StajProjeleri\WebServisOlusturmaTest\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.Form1.resources
+C:\Users\salih\Belgeler\Backend Dosyalari\StajProjeleri\WebServisOlusturmaTest\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.Properties.Resources.resources
+C:\Users\salih\Belgeler\Backend Dosyalari\StajProjeleri\WebServisOlusturmaTest\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.csproj.GenerateResource.cache
+C:\Users\salih\Belgeler\Backend Dosyalari\StajProjeleri\WebServisOlusturmaTest\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.csproj.CoreCompileInputs.cache
+C:\Users\salih\Belgeler\Backend Dosyalari\StajProjeleri\WebServisOlusturmaTest\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.exe
+C:\Users\salih\Belgeler\Backend Dosyalari\StajProjeleri\WebServisOlusturmaTest\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.pdb
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPWebServisTesti\SOAPWebServisTesti\bin\Debug\SOAPWebServisTesti.exe.config
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPWebServisTesti\SOAPWebServisTesti\bin\Debug\SOAPWebServisTesti.exe
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPWebServisTesti\SOAPWebServisTesti\bin\Debug\SOAPWebServisTesti.pdb
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.csproj.AssemblyReference.cache
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.Form1.resources
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.Properties.Resources.resources
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.csproj.GenerateResource.cache
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.csproj.CoreCompileInputs.cache
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.exe
+C:\Users\salih\Belgeler\DriveDosyalari\staj\yazılım stajı\SOAPServisOlusturmaTestEtme\SOAPWebServisTesti\SOAPWebServisTesti\obj\Debug\SOAPWebServisTesti.pdb
